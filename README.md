@@ -11,7 +11,7 @@ The system shifts from autonomous logic to a manual **Command-Response model**, 
 
 ## 🎥 Project Demo
 Click the link below to watch the video demonstration of the project in action:
-> 🎬 **[Watch the Video Demonstration]((https://youtu.be/79BT1Ii-yuY?si=E-drzVtk6_IyqZPk))**
+> 🎬 **[Watch the Video Demonstration](https://youtu.be/79BT1Ii-yuY?si=E-drzVtk6_IyqZPk)**
 
 ## 🛠️ Hardware Components
 | Component | Specification | Quantity |
