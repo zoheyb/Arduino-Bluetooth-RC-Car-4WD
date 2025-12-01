@@ -47,4 +47,15 @@ The robot listens for incoming ASCII characters via the Serial Port:
 * **'0'-'9'** -> Adjust Speed (PWM 0-255)
 
 ## 🚀 How to Run
-1. **Upload:** Connect Arduino via USB (Ensure Bluetooth is unplug
+1. **Upload:** Connect Arduino via USB (Ensure Bluetooth is unplugged). Upload `src/Bluetooth_RC_Car_Code.ino`.
+2. **Wiring:** Connect the Bluetooth module and Battery.
+3. **App:** Download "Arduino Bluetooth RC Car" from Play Store.
+4. **Connect:** Pair with `HC-05` (Pin: 1234) and connect in the app.
+5. **Drive:** Use the controller interface to drive the bot.
+
+## 👥 Developers
+* **Zohaib Hassan** - *System Integration & Coding*
+* **Zuhaib Khan** - *Hardware Assembly & Circuit Design*
+
+---
+*University Semester Project - Fall 2025*
